@@ -1,15 +1,15 @@
-Hi there!
+I'm Fasih Ullah, a passionate programmer and Frontend developer. I specialize in HTML, CSS, and JavaScript and am dedicated to crafting modern, dynamic websites.
 
-I'm Fasih Ullah, a passionate programmer and aspiring web developer based in Pakistan. I specialize in HTML, CSS, and JavaScript and am dedicated to crafting modern, dynamic websites that leave a lasting impression.
-I thrive on turning ideas into functional and aesthetically pleasing web experiences. Whether it's building a responsive user interface or implementing complex functionalities, I am committed to delivering high-quality solutions.
+Do:
+- Design to HTML, CSS, JavaScript.
+- Modern Designs and Animations.
+- Responsive Designs.
+- Web Accessibility.
 
-💼 Skills:
+languages:
 HTML CSS JS Spline GSAP
 
-📬 Contact
-For any inquiries, collaboration opportunities, or freelance work, you can reach out to me at fasihullah495@gmail.com. I'm always open to exciting projects and would love to hear from you.
+software I Use:
+Visual Studio Code /Github / Figma / Adobe Photoshop / Spline.
 
-
-Thanks for landing on my side! Let's build something amazing together. 🚀
-
-
+ Contact me at : fasihullah495@gmail.com.
