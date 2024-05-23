@@ -6,10 +6,12 @@ Do:
 - Responsive Designs.
 - Web Accessibility.
 
-languages:
+Technologies I know:
+
 HTML CSS JS Spline GSAP
 
-software I Use:
+Softwares I Use:
+
 Visual Studio Code /Github / Figma / Adobe Photoshop / Spline.
 
  Contact me at : fasihullah495@gmail.com.
