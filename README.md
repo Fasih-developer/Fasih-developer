@@ -8,7 +8,7 @@ Do:
 
 Technologies I know:
 
-HTML CSS JS Spline GSAP
+HTML5 / CSS3 / JAVASCRIPT / GSAP.
 
 Softwares I Use:
 
