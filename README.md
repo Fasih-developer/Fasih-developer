@@ -1,4 +1,4 @@
-I'm Fasih Ullah, a passionate programmer and Frontend developer. I specialize in HTML, CSS, and JavaScript and am dedicated to crafting modern, dynamic websites.
+I'm Fasih Ullah, a computer science undergratuade and Frontend developer. I specialize in HTML, CSS, and JavaScript and am dedicated to crafting modern, dynamic websites.
 
 Do:
 - Design to HTML, CSS, JavaScript.
